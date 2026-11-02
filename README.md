@@ -25,3 +25,6 @@ A responsive, light minimalist portfolio starter built with plain HTML, CSS, and
 
 ## Updating the content
 Edit the text in `index.html`. Change colors near the top of `styles.css` under `:root`.
+
+## Behance media
+The selected-work cards use public Behance project preview images and link directly to each full Behance presentation, where the complete image galleries and videos are available. Update or replace those project links in `index.html` if the Behance project URLs change.
