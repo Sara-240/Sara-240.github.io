@@ -1,30 +1,20 @@
-# Sara Almasri — Portfolio Website
+# Sara Almasri — Portfolio
 
-A responsive, light minimalist portfolio starter built with plain HTML, CSS, and JavaScript.
+A responsive, static portfolio website designed for GitHub Pages.
 
 ## Files
-- `index.html` — page content
-- `styles.css` — styling and responsive layout
-- `script.js` — mobile navigation and current year
+- `index.html` — page content and project gallery
+- `styles.css` — layout and visual styling
+- `script.js` — mobile navigation and interactions
+
+## Project gallery
+The selected-work section is a media-first gallery using the project cover artwork currently publicly exposed in the project listings. Cards show the project title and artwork only; they do not link out to the source profile. The House Price Predictor is shown separately as a learning project.
+
+The gallery includes 19 visual projects:
+Zero Downtime, Flappy Bird Clone: Endless Pipe Navigator, Memento, Immersive AR Workspace Enhancement, Educational Crosswalk Simulator, Kitchen Chaos, Dragon Quest, Emerald-Hilt Hero's Blade, Lofi Aesthetic Isometric Bedroom, Colorful Classic Robot, Digital Expressions Robot, The Freshly Opened Slice, Time-Lapse Sprout Growth, Vibrant Isometric Farm, Sweet Rotation: 3D Doughnut Trio, Satisfying Cube Production Line, Iced Emerald Beverage, Starlight Sword Drill Animation, and Tropical Beach Island Animation.
 
 ## Publish with GitHub Pages
-1. Open your repository: `https://github.com/Sara-240/Sara-240.github.io`
-2. Upload `index.html`, `styles.css`, and `script.js` to the repository root (not inside another folder).
-3. Commit the changes to the `main` branch.
-4. In GitHub, open **Settings → Pages**.
-5. Under **Build and deployment**, choose **Deploy from a branch**.
-6. Select **main** and **/(root)**, then save.
-7. Wait a few minutes, then visit `https://Sara-240.github.io`.
+Upload `index.html`, `styles.css`, `script.js`, and `README.md` to the root of the `main` branch of the `Sara-240.github.io` repository.
 
-## Before sharing publicly
-- Review your contact details and social links.
-- Add links to public project repositories and demos where available.
-- Add your own screenshots, project videos, and 3D renders. The current project visuals are CSS illustrations, not screenshots of the actual projects.
-- Check that every project description accurately reflects your contribution.
-- Consider whether you want your email address publicly visible.
-
-## Updating the content
-Edit the text in `index.html`. Change colors near the top of `styles.css` under `:root`.
-
-## Behance media
-The selected-work cards use public Behance project preview images and link directly to each full Behance presentation, where the complete image galleries and videos are available. Update or replace those project links in `index.html` if the Behance project URLs change.
+## Note about videos
+This package uses the project cover media visible in the public project listings. Individual playable video files are not exposed in those listings, so they are not embedded yet. To add the actual videos, provide the original MP4 files (or direct MP4 URLs) and they can be placed inside the corresponding cards.
